@@ -1,0 +1,7 @@
+{
+    "app_id": "my-test-application-atfej",
+    "config_version": 20210101,
+    "name": "My-Test-Application",
+    "location": "US-VA",
+    "deployment_model": "GLOBAL"
+}
